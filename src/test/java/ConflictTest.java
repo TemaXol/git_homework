@@ -8,5 +8,6 @@ public class ConflictTest {
         int i = 3;
         Assertions.assertTrue(i > 2);
 
+        Assertions.assertTrue(3 > 2);
     }
 }
