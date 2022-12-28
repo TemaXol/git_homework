@@ -5,7 +5,7 @@ public class ConflictTest {
 
     @Test
     void conflictTest() {
-
+        System.out.println("qwerty");
         Assertions.assertTrue(3 > 2);
     }
 }
